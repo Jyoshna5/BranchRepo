@@ -1,2 +1,4 @@
 My first file in the new branch Demo_branch
-second line on main branch
+Second line on main branch
+Second line in Demo1 branch
+third line in Demo1 branch
